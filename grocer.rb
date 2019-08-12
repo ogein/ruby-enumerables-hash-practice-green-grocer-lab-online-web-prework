@@ -1,5 +1,11 @@
 def consolidate_cart(cart)
-  # code here
+  i = 0
+  while i < cart.size
+    cart[i].each do |att, cnt|
+      cart[i][att][:count] = 0
+    end
+    i += 1
+  end
 end
 
 def apply_coupons(cart, coupons)

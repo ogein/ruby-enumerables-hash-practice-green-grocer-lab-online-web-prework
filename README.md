@@ -5,7 +5,7 @@
 - Access and iterate over hashes
 - Translate data from arrays to hashes
 - Translate data from hashes to other hashes
-- Count repeat items in a hash
+https://learn.co/tracks/fswd-prework-2-0/cli-essentials/ruby-enumerables-and-better-tools-for-collections-work/green-grocer-lab#- Count repeat items in a hash
 - Perform calculations based on hash data
 
 ## Introduction
